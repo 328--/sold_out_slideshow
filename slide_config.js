@@ -21,7 +21,7 @@ var SLIDE_CONFIG = {
 
   // Author information
   presenters: [{
-    name: 'Kakazu Yuki, Numata Takeshi, Yuya Asato',
+    name: 'Kakazu Yuki, Numata Takeshi, Yuya Asato, Kaito Tokumori',
   }/*, {
     name: 'Second Name',
     company: 'Job Title, Google',
